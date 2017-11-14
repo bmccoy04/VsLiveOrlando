@@ -1,3 +1,4 @@
+# Front-end dev from a .net developer
 
 * use node to run task
 * npm to manage packages (nuget for javascript)
